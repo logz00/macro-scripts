@@ -1,2 +1,2 @@
 # macro-scripts
-Scripts I have made for different games to automate certain tasks.
+Random scripts I have made to automate certain tasks.
